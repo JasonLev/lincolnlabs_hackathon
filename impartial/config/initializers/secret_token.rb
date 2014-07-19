@@ -9,4 +9,5 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Impartial::Application.config.secret_key_base = 'be8b79210fa49dfe3f38cb85578ac976a8bfb39f1ddbc1cf7eaea1dc79eb462431a5204780afa63eb444b4c34f8abc14eae4862c0cd5b3349a5d5fe88ccb3fbb'
+
+Impartial::Application.config.secret_key_base = 'c5b6f23737ca0b09342848cab199bbe2d5a27c8063f227e8122bedebe37eeef5bd2fb6f52fc13ea6b97c8bea5c8354a735d3910b4d646f0a379efe7d263d3633'
